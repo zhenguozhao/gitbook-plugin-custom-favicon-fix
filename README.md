@@ -30,7 +30,7 @@ gitbook install
 
 ### Using NPM
 ```bash
-npm install gitbook-plugin-custom-favicon
+npm install gitbook-plugin-custom-favicon-fix
 ```
 
 
