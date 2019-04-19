@@ -1,6 +1,6 @@
 {
-  "name": "gitbook-plugin-custom-favicon",
-  "version": "0.0.4",
+  "name": "gitbook-plugin-custom-favicon-fix",
+  "version": "1.0.0",
   "description": "replaces the gitbook favicon with your own",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,12 @@
   "engines": {
     "gitbook": "*"
   },
-  "homepage": "https://github.com/Bandwidth/gitbook-plugin-custom-favicon",
+  "homepage": "https://github.com/zhenguozhao/gitbook-plugin-custom-favicon-fix",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bandwidth/gitbook-plugin-custom-favicon"
+    "url": "https://github.com/zhenguozhao/gitbook-plugin-custom-favicon-fix"
   },
-  "author": "Dan Tolbert",
+  "author": "zhenguozhao",
   "license": "MIT",
   "dependencies": {}
 }
