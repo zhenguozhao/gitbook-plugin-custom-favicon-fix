@@ -9,13 +9,13 @@ There is probably a better way to do this, but this at least works for _most_ us
 
 ### In book.json
 
-* Add `custom-favicon` to your `plugins` array
+* Add `custom-favicon-fix` to your `plugins` array
 * Add path to your favicon in `favicon` under `pluginsConfig`
 
 #### book.json
 ```json
 {
-	"plugins" : ["custom-favicon"],
+	"plugins" : ["custom-favicon-fix"],
 	"pluginsConfig" : {
 		"favicon": "path/to/favicon.ico"
 	}
